@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Chicken Alfredo",
+    "ingredients": ["chicken", "pasta", "cream", "parmesan"],
+    "steps": "Cook pasta. Sauté chicken. Add cream and parmesan. Combine and serve."
+  },
+  {
+    "title": "Avocado Toast",
+    "ingredients": ["bread", "avocado", "salt", "pepper"],
+    "steps": "Toast the bread. Mash avocado on top. Season with salt + pepper."
+  },
+  {
+    "title": "Peanut Butter Banana Smoothie",
+    "ingredients": ["banana", "peanut butter", "milk", "ice"],
+    "steps": "Blend all ingredients until smooth."
+  }
+]
